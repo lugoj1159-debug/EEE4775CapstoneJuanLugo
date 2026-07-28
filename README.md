@@ -4,9 +4,7 @@ One-Sentence theme:
 A dual-core roller-coaster launch and safety control system that coordinates operator commands, safety interlocks, ride-state transitions, and live monitoring, built to demonstrate real-time embedded software and industrial control skills for a Ride & Show Controls Engineer role.
 ## Demo video: https://youtu.be/s6daFCSxui0
 ## Architecture
-===============================================================================
-                    HULK LAUNCH & SAFETY CONTROL SYSTEM
-===============================================================================
+HULK LAUNCH & SAFETY CONTROL SYSTEM
 
                          CORE 1 — CONTROL PLANE
 -------------------------------------------------------------------------------
